@@ -1,0 +1,18 @@
+{
+    "shapes_url": "https://concepts.trr379.de/s/base/unreleased.shacl.ttl",
+    "use_default_shapes": false,
+    "data_url": "",
+    "use_default_data": false,
+    "class_url": "https://concepts.trr379.de/s/base/unreleased.owl.ttl",
+    "use_default_classes": false,
+    "group_layout": "",
+    "defaultPropertyGroup": {
+        "key": "https://concepts.datalad.org/DefaultPropertyGroup",
+        "value": {
+            "http://www.w3.org/2000/01/rdf-schema#comment": "",
+            "http://www.w3.org/2000/01/rdf-schema#label": "Default Properties",
+            "http://www.w3.org/ns/shacl#order": 100
+        }
+    },
+    "id_iri": "https://concepts.datalad.org/s/things/v1/id"
+}
