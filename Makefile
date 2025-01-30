@@ -19,6 +19,6 @@ clean:
 	rm -rf $(DIST_DIR)
 
 deploy: $(DIST_DIR)
-	rsync -rvz --delete $</ herbert.trr379.de:/var/www/annotate.trr379.de/www/
+	rsync -rvz --delete $</ herbert.trr379.de:/var/www/annotate.trr379.de/www/s/demo/
 
 .PHONY: install build clean deploy
