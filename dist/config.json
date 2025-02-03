@@ -14,5 +14,6 @@
             "http://www.w3.org/ns/shacl#order": 100
         }
     },
-    "id_iri": "https://concepts.datalad.org/s/things/v1/id"
+    "id_iri": "https://concepts.datalad.org/s/things/v1/id",
+    "show_shapes_wo_id": false
 }
