@@ -18,6 +18,7 @@
     "show_shapes_wo_id": false,
     "use_service": true,
     "use_token": true,
+    "token_info": "",
     "service_base_url": "https://metadata.trr379.de/base-unreleased/",
     "service_endpoints":  {
         "post-record": "record/{name}?format=ttl",
@@ -61,6 +62,40 @@
         "trr379": "https://trr379.de/",
         "w3ctr": "https://www.w3.org/TR/",
         "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "class_icons": {
+        "https://concepts.datalad.org/s/identifiers/unreleased/Checksum": "mdi-hexadecimal",
+        "https://concepts.datalad.org/s/identifiers/unreleased/ComputedIdentifier": "mdi-identifier",
+        "https://concepts.datalad.org/s/identifiers/unreleased/DOI": "mdi-alpha-d-box",
+        "https://concepts.datalad.org/s/identifiers/unreleased/IssuedIdentifier": "mdi-identifier",
+        "https://concepts.datalad.org/s/prov/unreleased/SoftwareAgent": "mdi-console",
+        "https://concepts.datalad.org/s/publications/unreleased/Publication": "mdi-newspaper-check",
+        "https://concepts.datalad.org/s/resources/unreleased/Dataset": "mdi-database",
+        "https://concepts.datalad.org/s/resources/unreleased/Grant": "mdi-city",
+        "https://concepts.datalad.org/s/resources/unreleased/IndexedResourceRelationship": "",
+        "https://concepts.datalad.org/s/resources/unreleased/Instrument": "mdi-microscope",
+        "https://concepts.datalad.org/s/social/unreleased/Organization": "mdi-sitemap",
+        "https://concepts.datalad.org/s/social/unreleased/Person": "mdi-face-man",
+        "https://concepts.datalad.org/s/social/unreleased/Project": "mdi-briefcase",
+        "https://concepts.datalad.org/s/temporal/unreleased/InstantaneousEvent": "mdi-clock-time-eight",
+        "https://concepts.datalad.org/s/things/v1/ThingMixin": "",
+        "https://concepts.datalad.org/s/things/v1/ValueSpecification": "mdi-tape-measure",
+        "https://concepts.datalad.org/s/things/v1/ValueSpecificationMixin": "",
+        "https://concepts.datalad.org/s/things/v1/Property": "mdi-tag",
+        "https://concepts.datalad.org/s/resources/unreleased/Resource": "mdi-shape-plus",
+        "https://concepts.datalad.org/s/roles/unreleased/Role": "mdi-card-account-details",
+        "https://concepts.datalad.org/s/resources/unreleased/IndexedResourcePart": "mdi-file-tree",
+        "https://concepts.datalad.org/s/resources/unreleased/IndexedResourcePartOf": "",
+        "https://concepts.datalad.org/s/prov/unreleased/Entity": "mdi-shape",
+        "https://concepts.datalad.org/s/spatial/unreleased/Location": "mdi-map-marker-multiple",
+        "https://concepts.datalad.org/s/prov/unreleased/Activity": "mdi-play-box-outline",
+        "https://concepts.datalad.org/s/prov/unreleased/Agent": "mdi-account",
+        "https://concepts.datalad.org/s/identifiers/unreleased/Identifier": "mdi-identifier",
+        "https://concepts.datalad.org/s/roles/unreleased/Relationship": "mdi-transit-connection-variant",
+        "https://concepts.datalad.org/s/things/v1/Thing": "mdi-shape-outline",
+        "https://concepts.datalad.org/s/things/v1/Annotation": "mdi-tag-text",
+        "https://concepts.datalad.org/s/things/v1/AttributeSpecification": "mdi-file-document-plus-outline",
+        "https://concepts.datalad.org/s/things/v1/Statement": "mdi-format-list-text"
     }
 
 }
